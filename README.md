@@ -1,5 +1,5 @@
 # web-design-challenge
-web-design-challenge week 11 homework, done by JD Kwak
+web-design-challenge week 11 homework, done by JD Kwak.
 
 access the app website by going to https://jdkwak1994.github.io/web-design-challenge/WebVisualizations/
 
